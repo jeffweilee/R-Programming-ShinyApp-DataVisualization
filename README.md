@@ -1,6 +1,6 @@
 # R-Programming-ShinyApp-DataVisualization
 
-## About the App [App-seniorMRT](http://jeffweilee.shinyapps.io/App-seniorMRT/)
+## About the Shiny App: [App-seniorMRT](http://jeffweilee.shinyapps.io/App-seniorMRT/)
 	- Use R to present raw data and make graph
 	- Use Shiny app to publish
 	
