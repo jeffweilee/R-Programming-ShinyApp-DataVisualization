@@ -2,4 +2,4 @@
 
 ## About the App
 	- Present Data using Shiny-R (Shiny app)
-	- [App-seniorMRT](http://jeffweilee.shinyapps.io/App-seniorMRT/)
+	[App-seniorMRT](http://jeffweilee.shinyapps.io/App-seniorMRT/)
